@@ -58,6 +58,8 @@ tensorflow
 - Each `.wav` file contains a speech clip expressed with a specific emotion.
 - The dataset should follow a naming convention or directory structure from which emotion labels can be parsed. 
 
+## Results 
+![A](https://github.com/isakovsh/Emotion-detection/blob/master/results.png?raw=True)
 ---
 
 
