@@ -1,4 +1,4 @@
-
+![A](https://github.com/isakovsh/Emotion-detection/blob/master/image.png?raw=True)
 # 🎧 Audio Emotion Recognition using Deep Learning
 
 This project aims to recognize emotions from audio signals using deep learning techniques. It processes `.wav` audio files, extracts meaningful features like MFCCs (Mel Frequency Cepstral Coefficients), and uses a neural network to classify the emotional tone in speech.
